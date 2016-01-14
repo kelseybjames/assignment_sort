@@ -26,10 +26,3 @@ def insertion_sort( input_array )
     end
     input_array
 end
-
-puts insertion_sort( [1,3,7,2,5] )
-puts insertion_sort( [1,3,7,2,5] )
-puts insertion_sort( [1,3,7,2,5] )
-puts insertion_sort( [1,3,7,2,5] )
-puts insertion_sort( [1,3,7,2,5] )
-puts insertion_sort( [1,3,7,2,5] )
